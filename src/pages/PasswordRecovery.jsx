@@ -5,7 +5,7 @@ const PasswordRecovery = () => {
   return (
     <div className="PasswordRecovery">
       <div className="PasswordRecovery-container">
-        <img src="./logos/logo_yard_sale.svg" alt="logo" className="logo" />
+        <img src="/img/logos/logo_yard_sale.svg" alt="logo" className="logo" />
         <h1 className="title">Password recovery</h1>
         <p className="subtitle">
           Inform the email address used to create your account

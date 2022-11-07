@@ -16,7 +16,7 @@ const ProductInfo = () => {
           function, add your hall or workspace.
         </p>
         <button className="primary-button add-to-cart-button">
-          <img src="./icons/bt_add_to_cart.svg" alt="add to cart" />
+          <img src="/img/icons/bt_add_to_cart.svg" alt="add to cart" />
           Add to cart
         </button>
       </div>

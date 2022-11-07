@@ -9,7 +9,7 @@ const Order = () => {
         <span>6 articles</span>
       </p>
       <p>$560.00</p>
-      <img src="./icons/flechita.svg" alt="arrow" />
+      <img src="/img/icons/flechita.svg" alt="arrow" />
     </div>
   );
 };

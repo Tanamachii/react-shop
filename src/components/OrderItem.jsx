@@ -12,7 +12,7 @@ const OrderItem = () => {
       </figure>
       <p>Bike</p>
       <p>$30,00</p>
-      <img src="./icons/icon_close.png" alt="close" />
+      <img src="/img/icons/icon_close.png" alt="close" />
     </div>
   );
 };
